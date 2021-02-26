@@ -10,7 +10,7 @@ a = 8
 # elif(a>17):
 #     print("The value of a is greater than 17")
 # else:
-#     print("The value is not greater than 3 or 7")
+#     print("The value is not greater than 13 or 17")
 
 # 2. Multiple if statements
 if(a<3): 
@@ -25,6 +25,6 @@ if(a>7):
 if(a>17):
     print("The value of a is greater than 17")
 else:
-    print("The value is not greater than 3 or 7")
+    print("The value is not greater than 13 or 17")
 
 print("Done")

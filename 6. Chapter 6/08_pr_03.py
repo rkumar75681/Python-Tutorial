@@ -1,3 +1,6 @@
+
+# rhl solve question
+
 text = input("Enter the text\n")
 
 if("make a lot of money" in text):
